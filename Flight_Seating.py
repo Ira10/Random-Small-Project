@@ -19,3 +19,20 @@ def seat_giver():
 
 
 print(seat_giver())
+
+
+
+How many seats do you need? 12
+You have been alloted c2
+You have been alloted a1
+You have been alloted c8
+You have been alloted c4
+You have been alloted b3
+You have been alloted c7
+You have been alloted a3
+You have been alloted c1
+You have been alloted c9
+You have been alloted a2
+You have been alloted c5
+You have been alloted c6
+None
